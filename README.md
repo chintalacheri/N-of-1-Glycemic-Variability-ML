@@ -1,6 +1,6 @@
 # Mapping Autonomic and Lifestyle Drivers of Glycemic Variability (N-of-1 ML Pipeline)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20567759.svg)](https://doi.org/10.5281/zenodo.20567759)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20567759-blue.svg)](https://doi.org/10.5281/zenodo.20567759)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Official computational repository for the preprint:  **"Mapping Autonomic and Lifestyle Drivers of Glycemic Variability: An N-of-1 Machine Learning Approach Using Continuous Glucose Monitoring"**
